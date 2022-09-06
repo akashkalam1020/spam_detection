@@ -56,3 +56,5 @@ if st.button('predict'):
         st.header('Spam')
     else:
         st.header('Not Spam')
+
+# # streamlit run app.py
